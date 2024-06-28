@@ -4,7 +4,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { promisify } from 'util';
 
-const filePath = path.join(__dirname, '../../data/events.json');
+const filePath = path.join(__dirname, '../data/events.json');
 
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);

@@ -30,21 +30,5 @@
     },
     "createdAt": "2024-06-27T13:19:03.648Z",
     "updatedAt": "2024-06-27T13:19:03.648Z"
-  },
-  {
-    "id": "72cb6e34-1364-431d-9979-64619e4d3893",
-    "eventName": "Food stall 2023",
-    "eventDate": "2024-08-05T12:00:00Z",
-    "organizer": "Foodies United",
-    "email": "info@foodiesunited.com",
-    "phone": "+15555555555",
-    "location": {
-      "street": "321 Foodie Street",
-      "city": "Culinaryville",
-      "state": "Texas",
-      "zip": "77777"
-    },
-    "createdAt": "2024-06-27T13:20:06.449Z",
-    "updatedAt": "2024-06-27T13:21:04.323Z"
   }
 ]
