@@ -46,17 +46,20 @@ interface Event {
 1. Clone the repository:
 
     git clone https://github.com/vjvenkat07/Event_management_platform.git
-    cd event-management-platform
+
+    cd Event_management_platform
 
 2. Install dependencies: 
+
     npm install
 
 3. Running the Application:
+
     npm start
 
 ### Project Structure
 
-event-management-platform/
+Event_management_platform/
 |-- dist/
 |   |-- controllers/
 |   |   |-- eventController.js
@@ -82,4 +85,4 @@ event-management-platform/
 |   |-- events.json
 |-- package.json
 |-- tsconfig.json
-|-- vercel.json
+
